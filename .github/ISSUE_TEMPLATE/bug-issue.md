@@ -16,8 +16,30 @@ Things to check before when creating an issue:
 * Did you add it in the right project ([Development](https://github.com/orgs/Phished-BV/projects/2/views/1))?
 * Did you add the correct labels?
 -->
-**Describe the bug and the expected behavior**
 
+### Environment, URL, identifier
 
-**Additional context**
-<!-- steps to reproduce, screenshots, videos, OS, browser -->
+Environment: ``
+URL: ``
+Identifier: ``
+
+### Steps to reproduce
+<!-- steps to reproduce the behaviour -->
+
+1.
+2.
+
+### Describe the expected result
+
+### Describe the actaul result
+<!-- specifications, designs, screenshots, videos, information for QA -->
+
+---
+
+### Testing instructions
+
+#### Test data
+<!-- database tables, environment variables, feature flags, Postman collection, permissions -->
+
+#### Edge cases
+<!-- non-happy paths that should be tested -->

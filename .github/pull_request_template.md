@@ -7,6 +7,7 @@ Check the following when creating a pull request:
 * Did you link it to the corresponding issue(s)?
 * Did you follow https://keepachangelog.com/en/1.1.0/ for the description?
 -->
+**Issue:** #<issue_number>
 
 ### Added
 - 
@@ -26,4 +27,6 @@ Check the following when creating a pull request:
 
 ### Security
 - 
+
+## Additional context
 -->

@@ -19,9 +19,9 @@ Check the following when creating an issue:
 
 ### Environment, URL, identifier
 
-Environment: ``
-URL: ``
-Identifier: ``
+<br />Environment: ` `
+<br />URL: ` `
+<br />Identifier: ` `
 
 ### Steps to reproduce
 <!-- steps to reproduce the behaviour -->

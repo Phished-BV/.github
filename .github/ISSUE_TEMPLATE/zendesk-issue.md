@@ -20,9 +20,9 @@ Check the following when creating an issue:
 ### Zendesk URL, environment, URL, identifier
 
 Zendesk URL: 
-Environment: ``
-URL: ``
-Identifier: ``
+<br />Environment: ` `
+<br />URL: ` `
+<br />Identifier: ` `
 
 ### Steps to reproduce
 <!-- steps to reproduce the behaviour -->

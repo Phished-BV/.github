@@ -19,7 +19,7 @@ Check the following when creating an issue:
 
 ### Zendesk URL, environment, URL, identifier
 
-Zendesk URL: ``
+Zendesk URL: 
 Environment: ``
 URL: ``
 Identifier: ``

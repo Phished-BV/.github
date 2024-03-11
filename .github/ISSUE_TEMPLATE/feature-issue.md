@@ -33,8 +33,8 @@ Check the following when creating an issue:
 
 #### Environment & URL
 
-Environment: ``
-URL: ``
+<br />Environment: ` `
+<br />URL: ` `
 
 #### Test data
 <!-- database tables, environment variables, feature flags, Postman collection, permissions -->

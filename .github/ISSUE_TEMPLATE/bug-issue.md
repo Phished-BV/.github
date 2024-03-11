@@ -31,7 +31,7 @@ Identifier: ``
 
 ### Describe the expected result
 
-### Describe the actaul result
+### Describe the actual result
 <!-- specifications, designs, screenshots, videos, information for QA -->
 
 ---

@@ -1,3 +1,12 @@
+---
+name: Design issue
+about: When designing new or existing features
+title: ''
+labels: ''
+assignees: estherwholm
+
+---
+
 <!--
 Check the following when creating an issue:
 * Did you add a proper title?
@@ -21,4 +30,3 @@ Notion URL:
 <!-- specifications, where does this belong to, any links, screenshots, videos, ... -->
 
 ---
-

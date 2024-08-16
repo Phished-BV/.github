@@ -2,7 +2,7 @@
 name: Feature issue
 about: When adding new features or improving existing features
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---

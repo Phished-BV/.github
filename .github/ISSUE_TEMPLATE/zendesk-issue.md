@@ -2,7 +2,7 @@
 name: Zendesk issue
 about: When following up a Zendesk ticket
 title: ''
-labels: zendesk
+labels: ''
 assignees: ''
 
 ---

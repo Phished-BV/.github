@@ -17,30 +17,28 @@ Check the following when creating an issue:
 * Did you add the correct labels?
 -->
 
-### Zendesk URL, environment, URL, identifier
+### Relevant links
 
 Zendesk URL: 
-<br />Environment: ` `
-<br />URL: ` `
-<br />Identifier: ` `
+<br />URL: 
+<br />Identifier: ``
 
 ### Steps to reproduce
-<!-- steps to reproduce the behaviour -->
 
-1.
-2.
+1. 
 
 ### Describe the expected result
+<!-- Consider including Notion links, Figma documents, screenshots, videos -->
 
 ### Describe the actual result
-<!-- specifications, designs, screenshots, videos, information for QA -->
 
 ---
 
 ### Testing instructions
+<!-- Affected areas and expected result are already described above -->
 
 #### Test data
-<!-- database tables, environment variables, feature flags, Postman collection, permissions -->
+<!-- Database tables, SQL query to run, sample data to use, environment variables, feature flags, Postman collection, permissions -->
 
 #### Edge cases
-<!-- non-happy paths that should be tested -->
+<!-- Non-happy paths that should be tested -->

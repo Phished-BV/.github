@@ -24,7 +24,7 @@ Check the following when creating an issue:
 <!-- High level, leaving the details of affected areas and expected results in the testing instructions below -->
 
 ### Additional context
-<!-- Link to Notion Product Glossary to keep the Product documentation up to date -->
+*Feature Documentation Link:* 
 
 <!-- Notion links, Figma documents, screenshots, videos -->
 

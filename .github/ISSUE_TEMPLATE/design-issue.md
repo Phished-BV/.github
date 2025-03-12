@@ -28,5 +28,3 @@ Notion URL:
 
 ### Context
 <!-- specifications, where does this belong to, any links, screenshots, videos, ... -->
-
----

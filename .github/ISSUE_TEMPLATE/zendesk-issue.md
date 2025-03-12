@@ -28,9 +28,9 @@ Zendesk URL:
 1. 
 
 ### Describe the expected result
+<!-- Consider including Notion links, Figma documents, screenshots, videos -->
 
 ### Describe the actual result
-<!-- Consider including specification, product documentation, design, screenshots, videos -->
 
 ---
 

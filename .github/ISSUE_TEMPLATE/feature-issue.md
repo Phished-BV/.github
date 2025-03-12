@@ -33,10 +33,6 @@ Check the following when creating an issue:
 ### Testing instructions
 <!-- No need to reiterate details from Notion or Figma if relevant links are provided -->
 
-#### Environment & URL
-
-Environment: 
-
 URL: 
 
 #### Affected areas

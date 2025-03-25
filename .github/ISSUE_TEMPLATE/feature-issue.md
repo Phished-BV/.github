@@ -31,8 +31,13 @@ Check the following when creating an issue:
 ---
 
 ### Testing instructions
-<!-- No need to reiterate details from Notion or Figma if relevant links are provided -->
 
+**Is QA required?**
+Refer to our [QA guidelines](https://www.notion.so/phished/Quality-assurance-d583183bb7d345a086ca2117915c534e?pvs=4#e6f36688fd014e9ab5562ec36efeb895) to determine if QA is required for this issue.  
+If **no**, please remove the sections below and update the `Needs QA` field of the issue to `No` once added on the `Development` board.  Please also provide a reason why QA is not required.  
+If **yes**, please fill in the sections below.  
+
+<!-- No need to reiterate details from Notion or Figma if relevant links are provided -->
 URL: 
 
 #### Affected areas

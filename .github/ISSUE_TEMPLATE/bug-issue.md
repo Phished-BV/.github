@@ -19,6 +19,7 @@ Check the following when creating an issue:
 
 ### Environment, URL, identifier
 
+<br />Environment: 
 <br />URL: 
 <br />Identifier: ``
 

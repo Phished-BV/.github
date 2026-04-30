@@ -31,7 +31,7 @@ Documentation link:
 <!-- The second checkbox is only available when QA was involved in planning -->
 - [ ] I have provided the mandatory documentation link
 - [ ] No documentation link provided - this is a non-QAable sub-issue
-- [ ] No documentation link provided - I will explain myself below
+- [ ] No documentation link provided - context will be provided below
 
 <!-- Notion links, Figma documents, screenshots, videos -->
 

@@ -27,7 +27,7 @@ Check the following when creating an issue:
 
 Documentation link:  
 
-<!-- Check off one of the following fields, do not remove this section -->
+<!-- Check off only one of the following fields, do not remove this section -->
 <!-- The second checkbox is only available when QA was involved in planning -->
 - [ ] I have provided the mandatory documentation link
 - [ ] No documentation link provided - this is a non-QAable sub-issue

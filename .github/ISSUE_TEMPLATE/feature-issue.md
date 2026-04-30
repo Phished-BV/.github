@@ -24,7 +24,14 @@ Check the following when creating an issue:
 <!-- High level, leaving the details of affected areas and expected results in the testing instructions below -->
 
 ### Additional context
-*Feature Documentation Link:* 
+
+Documentation link:  
+
+<!-- Check off one of the following fields, do not remove this section -->
+<!-- The second checkbox is only available when QA was involved in planning -->
+- [ ] I have provided the mandatory documentation link
+- [ ] No documentation link provided - this is a non-QAable sub-issue 
+- [ ] No documentation link provided - I will explain myself below
 
 <!-- Notion links, Figma documents, screenshots, videos -->
 
